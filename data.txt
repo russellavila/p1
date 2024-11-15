@@ -1,0 +1,12 @@
+00:01:57: wojak bet 20 spins using option *a (1 number) and ended up with $0.
+00:02:50: soyjak bet 20 spins using option *b (2 numbers) and ended up with $90.
+00:04:24: boomer bet 20 spins using option *c (5 numbers) and ended up with $72.
+00:05:10: chad bet 20 spins using option *d (1-12) and ended up with $90.
+00:05:56: squee bet 20 spins using option *e (13-24) and ended up with $120.
+00:06:43: lenore bet 20 spins using option *f (25-36) and ended up with $90.
+00:13:35: mothra bet 20 spins using option *g (red) and ended up with $80.
+00:14:46: gypsy bet 20 spins using option *h (black) and ended up with $110.
+00:15:00: servo bet 20 spins using option *i (odd) and ended up with $120.
+00:15:31: crow bet 20 spins using option *j (even) and ended up with $110.
+03:42:01: jill bet 20 spins using option *i (odd) and ended up with $70.
+04:47:52: bee bet 20 spins using option *g (red) and ended up with $90.

@@ -1,0 +1,31 @@
+analyzer.sh
+
+Behold the master of gambling!
+==============================
+00:05:56: squee bet 20 spins using option *e (13-24) and ended up with $120.
+00:15:00: servo bet 20 spins using option *i (odd) and ended up with $120.
+==============================
+04:21:36:
+Behold the master of gambling!
+==============================
+00:05:56: squee bet 20 spins using option *e (13-24) and ended up with $120.
+00:15:00: servo bet 20 spins using option *i (odd) and ended up with $120.
+==============================
+04:31:58:
+Behold the master of gambling!
+==============================
+00:05:56: squee bet 20 spins using option *e (13-24) and ended up with $120.
+00:15:00: servo bet 20 spins using option *i (odd) and ended up with $120.
+==============================
+04:46:41:
+Behold the master of gambling!
+==============================
+00:05:56: squee bet 20 spins using option *e (13-24) and ended up with $120.
+00:15:00: servo bet 20 spins using option *i (odd) and ended up with $120.
+==============================
+05:36:07:
+Behold the master of gambling!
+==============================
+00:05:56: squee bet 20 spins using option *e (13-24) and ended up with $120.
+00:15:00: servo bet 20 spins using option *i (odd) and ended up with $120.
+==============================
